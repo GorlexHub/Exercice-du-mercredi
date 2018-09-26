@@ -1,3 +1,3 @@
 # THP-2018
 
-www.gorlexhub.github.io/index.html
+https://gorlexhub.github.io/THP-2018/
