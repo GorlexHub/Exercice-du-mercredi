@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="thp-6th-session---week-0">THP: 6th Session - Week 0</h2>
 <ul>
 <li>
